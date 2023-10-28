@@ -14,6 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-You can see the project layout through
-[here](https://app.rocketseat.com.br/node/stage-03/group/novo-avancando-no-css/challenge/blog-de-gatos).
-You must have an account at [Figma](https://www.figma.com)
+Você pode ver o layout do projeto
+[aqui](https://app.rocketseat.com.br/node/stage-03/group/novo-avancando-no-css/challenge/blog-de-gatos).
